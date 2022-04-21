@@ -1,43 +1,50 @@
 Product,Size,blackout,Type
-grommet 95 inch,curtain,black out,grayish
-grommet 96 inch,drape,sun block,grey
-grommet 97 inch,drapery,sun blocking,gray
-coastal 95 inch,panel,,gold
-coastal 96 inch,window curtain,,yellow
-coastal 97 inch,,,mustard
-boho 95 inch,,,navy
-boho 96 inch,,,bluish
-boho 97 inch,,,blue
-bohemian 95 inch,,,indigo
-bohemian 96 inch,,,denim
-bohemian 97 inch,,,dark grey
-modern 95 inch,,,charcoal
-modern 96 inch,,,black grey
-modern 97 inch,,,burlap
-farmhouse 95 inch,,,sand
-farmhouse 96 inch,,,taupe
-farmhouse 97 inch,,,tan
-farm house 95 inch,,,beige
-farm house 96 inch,,,light brown
-farm house 97 inch,,,natural
-rustic 95 inch,,,neutral
-rustic 96 inch,,,greige
-rustic 97 inch,,,ivory
-woven 95 inch,,,cream
-woven 96 inch,,,off white
-woven 97 inch,,,black
-linen 95 inch,,,black and white
-linen 96 inch,,,light blue
-linen 97 inch,,,light gray
-texture 95 inch,,,silver
-texture 96 inch,,,light grey
-texture 97 inch,,,pink
-tweed 95 inch,,,light pink
-tweed 96 inch,,,dark pink
-tweed 97 inch,,,white
-chambray 95 inch,,,teal
-chambray 96 inch,,,dark teal
-chambray 97 inch,,,light teal
-semi sheer 95 inch,,,
-semi sheer 96 inch,,,
-semi sheer 97 inch,,,
+woven farmhouse,curtain,black out,grayish
+woven farm house,drape,sun block,grey
+woven semi sheer,drapery,sun blocking,gray
+woven rustic,panel,,gold
+linen farmhouse,window curtain,,yellow
+linen farm house,,,mustard
+linen semi sheer,,,navy
+linen rustic,,,bluish
+texture grommet,,,blue
+texture coastal,,,indigo
+texture heavy,,,denim
+texture pattern,,,dark grey
+texture modern,,,charcoal
+texture woven,,,black grey
+texture texture,,,burlap
+texture tweed,,,sand
+texture chambray,,,taupe
+texture farmhouse,,,tan
+texture farm house,,,beige
+texture semi sheer,,,light brown
+texture rustic,,,natural
+tweed grommet,,,neutral
+tweed coastal,,,greige
+tweed heavy,,,ivory
+tweed pattern,,,cream
+tweed modern,,,off white
+tweed woven,,,black
+tweed texture,,,black and white
+tweed tweed,,,light blue
+tweed chambray,,,light gray
+tweed farmhouse,,,silver
+tweed farm house,,,light grey
+tweed semi sheer,,,pink
+tweed rustic,,,light pink
+chambray grommet,,,dark pink
+chambray coastal,,,white
+chambray heavy,,,teal
+chambray pattern,,,dark teal
+chambray modern,,,light teal
+chambray woven,,,
+chambray texture,,,
+chambray tweed,,,
+chambray chambray,,,
+chambray farmhouse,,,
+chambray farm house,,,
+chambray semi sheer,,,
+chambray rustic,,,
+chambray boho,,,
+chambray bohemian,,,
