@@ -1,50 +1,177 @@
 Product,Size,Type
-woven farmhouse,curtain,grayish
-woven farm house,drape,grey
-woven semi sheer,drapery,gray
-woven rustic,panel,gold
-linen farmhouse,window curtain,yellow
-linen farm house,,mustard
-linen semi sheer,,navy
-linen rustic,,bluish
-texture grommet,,blue
-texture coastal,,indigo
-texture heavy,,denim
-texture pattern,,dark grey
-texture modern,,charcoal
-texture woven,,black grey
-texture texture,,burlap
-texture tweed,,sand
-texture chambray,,taupe
-texture farmhouse,,tan
-texture farm house,,beige
-texture semi sheer,,light brown
-texture rustic,,natural
-tweed grommet,,neutral
-tweed coastal,,greige
-tweed heavy,,ivory
-tweed pattern,,cream
-tweed modern,,off white
-tweed woven,,black
-tweed texture,,black and white
-tweed tweed,,light blue
-tweed chambray,,light gray
-tweed farmhouse,,silver
-tweed farm house,,light grey
-tweed semi sheer,,pink
-tweed rustic,,light pink
-chambray grommet,,dark pink
-chambray coastal,,white
-chambray heavy,,teal
-chambray pattern,,dark teal
-chambray modern,,light teal
-chambray woven,,
-chambray texture,,
-chambray tweed,,
-chambray chambray,,
-chambray farmhouse,,
-chambray farm house,,
-chambray semi sheer,,
-chambray rustic,,
-chambray boho,,
-chambray bohemian,,
+grommet patio,curtain,grayish
+grommet extra wide,drape,grey
+grommet wide,drapery,gray
+grommet double,panel,gold
+ring top patio,window curtain,yellow
+ring top extra wide,,mustard
+ring top wide,,navy
+ring top double,,bluish
+coastal patio,,blue
+coastal extra wide,,indigo
+coastal wide,,denim
+coastal double,,dark grey
+patio 84,,charcoal
+patio 85,,black grey
+patio 86,,burlap
+patio 95,,sand
+patio 96,,taupe
+patio 97,,tan
+patio 107,,beige
+patio 108,,light brown
+patio 109,,natural
+patio 110,,neutral
+patio grommet,,greige
+patio coastal,,ivory
+patio heavy,,cream
+patio modern,,off white
+patio woven,,black
+patio linen,,black and white
+patio texture,,light blue
+patio tweed,,light gray
+patio chambray,,silver
+patio ring top,,light grey
+patio farmhouse,,pink
+patio farm house,,light pink
+patio semi sheer,,dark pink
+patio rustic,,white
+patio thermal,,teal
+patio insulated,,dark teal
+patio insulate,,light teal
+patio sound,,
+patio patio,,
+patio extra wide,,
+patio wide,,
+patio double,,
+patio boho,,
+patio bohemian,,
+extra wide 84,,
+extra wide 85,,
+extra wide 86,,
+extra wide 95,,
+extra wide 96,,
+extra wide 97,,
+extra wide 107,,
+extra wide 108,,
+extra wide 109,,
+extra wide 110,,
+extra wide grommet,,
+extra wide coastal,,
+extra wide heavy,,
+extra wide modern,,
+extra wide woven,,
+extra wide linen,,
+extra wide texture,,
+extra wide tweed,,
+extra wide chambray,,
+extra wide ring top,,
+extra wide farmhouse,,
+extra wide farm house,,
+extra wide semi sheer,,
+extra wide rustic,,
+extra wide thermal,,
+extra wide insulated,,
+extra wide insulate,,
+extra wide sound,,
+extra wide patio,,
+extra wide extra wide,,
+extra wide wide,,
+extra wide double,,
+extra wide boho,,
+extra wide bohemian,,
+wide 84,,
+wide 85,,
+wide 86,,
+wide 95,,
+wide 96,,
+wide 97,,
+wide 107,,
+wide 108,,
+wide 109,,
+wide 110,,
+wide grommet,,
+wide coastal,,
+wide heavy,,
+wide modern,,
+wide woven,,
+wide linen,,
+wide texture,,
+wide tweed,,
+wide chambray,,
+wide ring top,,
+wide farmhouse,,
+wide farm house,,
+wide semi sheer,,
+wide rustic,,
+wide thermal,,
+wide insulated,,
+wide insulate,,
+wide sound,,
+wide patio,,
+wide extra wide,,
+wide wide,,
+wide double,,
+wide boho,,
+wide bohemian,,
+double 84,,
+double 85,,
+double 86,,
+double 95,,
+double 96,,
+double 97,,
+double 107,,
+double 108,,
+double 109,,
+double 110,,
+double grommet,,
+double coastal,,
+double heavy,,
+double modern,,
+double woven,,
+double linen,,
+double texture,,
+double tweed,,
+double chambray,,
+double ring top,,
+double farmhouse,,
+double farm house,,
+double semi sheer,,
+double rustic,,
+double thermal,,
+double insulated,,
+double insulate,,
+double sound,,
+double patio,,
+double extra wide,,
+double wide,,
+double double,,
+double boho,,
+double bohemian,,
+woven patio,,
+woven extra wide,,
+woven wide,,
+woven double,,
+woven boho,,
+woven bohemian,,
+linen patio,,
+linen extra wide,,
+linen wide,,
+linen double,,
+linen boho,,
+linen bohemian,,
+texture patio,,
+texture extra wide,,
+texture wide,,
+texture double,,
+texture boho,,
+texture bohemian,,
+tweed patio,,
+tweed extra wide,,
+tweed wide,,
+tweed double,,
+tweed boho,,
+tweed bohemian,,
+chambray patio,,
+chambray extra wide,,
+chambray wide,,
+chambray double,,
