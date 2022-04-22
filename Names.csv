@@ -1,177 +1,175 @@
 Product,Size,Type
-grommet patio,curtain,grayish
-grommet extra wide,drape,grey
-grommet wide,drapery,gray
-grommet double,panel,gold
-ring top patio,window curtain,yellow
-ring top extra wide,,mustard
-ring top wide,,navy
-ring top double,,bluish
-coastal patio,,blue
-coastal extra wide,,indigo
-coastal wide,,denim
-coastal double,,dark grey
-patio 84,,charcoal
-patio 85,,black grey
-patio 86,,burlap
-patio 95,,sand
-patio 96,,taupe
-patio 97,,tan
-patio 107,,beige
-patio 108,,light brown
-patio 109,,natural
-patio 110,,neutral
-patio grommet,,greige
-patio coastal,,ivory
-patio heavy,,cream
-patio modern,,off white
-patio woven,,black
-patio linen,,black and white
-patio texture,,light blue
-patio tweed,,light gray
-patio chambray,,silver
-patio ring top,,light grey
-patio farmhouse,,pink
-patio farm house,,light pink
-patio semi sheer,,dark pink
-patio rustic,,white
-patio thermal,,teal
-patio insulated,,dark teal
-patio insulate,,light teal
-patio sound,,
-patio patio,,
-patio extra wide,,
-patio wide,,
-patio double,,
-patio boho,,
-patio bohemian,,
-extra wide 84,,
-extra wide 85,,
-extra wide 86,,
-extra wide 95,,
-extra wide 96,,
-extra wide 97,,
-extra wide 107,,
-extra wide 108,,
-extra wide 109,,
-extra wide 110,,
-extra wide grommet,,
-extra wide coastal,,
-extra wide heavy,,
-extra wide modern,,
-extra wide woven,,
-extra wide linen,,
-extra wide texture,,
-extra wide tweed,,
-extra wide chambray,,
-extra wide ring top,,
-extra wide farmhouse,,
-extra wide farm house,,
-extra wide semi sheer,,
-extra wide rustic,,
-extra wide thermal,,
-extra wide insulated,,
-extra wide insulate,,
-extra wide sound,,
-extra wide patio,,
-extra wide extra wide,,
-extra wide wide,,
-extra wide double,,
-extra wide boho,,
-extra wide bohemian,,
-wide 84,,
-wide 85,,
-wide 86,,
-wide 95,,
-wide 96,,
-wide 97,,
-wide 107,,
-wide 108,,
-wide 109,,
-wide 110,,
-wide grommet,,
-wide coastal,,
-wide heavy,,
-wide modern,,
-wide woven,,
-wide linen,,
-wide texture,,
-wide tweed,,
-wide chambray,,
-wide ring top,,
-wide farmhouse,,
-wide farm house,,
-wide semi sheer,,
-wide rustic,,
-wide thermal,,
-wide insulated,,
-wide insulate,,
-wide sound,,
-wide patio,,
-wide extra wide,,
-wide wide,,
-wide double,,
-wide boho,,
-wide bohemian,,
-double 84,,
-double 85,,
-double 86,,
-double 95,,
-double 96,,
-double 97,,
-double 107,,
-double 108,,
-double 109,,
-double 110,,
-double grommet,,
-double coastal,,
-double heavy,,
-double modern,,
-double woven,,
-double linen,,
-double texture,,
-double tweed,,
-double chambray,,
-double ring top,,
-double farmhouse,,
-double farm house,,
-double semi sheer,,
-double rustic,,
-double thermal,,
-double insulated,,
-double insulate,,
-double sound,,
-double patio,,
-double extra wide,,
-double wide,,
-double double,,
-double boho,,
-double bohemian,,
-woven patio,,
-woven extra wide,,
-woven wide,,
-woven double,,
-woven boho,,
-woven bohemian,,
-linen patio,,
-linen extra wide,,
-linen wide,,
-linen double,,
-linen boho,,
-linen bohemian,,
-texture patio,,
-texture extra wide,,
-texture wide,,
-texture double,,
-texture boho,,
-texture bohemian,,
-tweed patio,,
-tweed extra wide,,
-tweed wide,,
-tweed double,,
-tweed boho,,
-tweed bohemian,,
-chambray patio,,
-chambray extra wide,,
-chambray wide,,
-chambray double,,
+grommet coastal,curtain,grayish
+grommet heavy,drape,grey
+grommet modern,drapery,gray
+grommet woven,panel,gold
+grommet linen,window curtain,yellow
+grommet texture,,mustard
+grommet tweed,,navy
+grommet chambray,,bluish
+coastal coastal,,blue
+coastal heavy,,indigo
+coastal modern,,denim
+coastal woven,,dark grey
+coastal linen,,charcoal
+coastal texture,,black grey
+coastal tweed,,burlap
+coastal chambray,,sand
+boho coastal,,taupe
+boho heavy,,tan
+boho modern,,beige
+boho woven,,light brown
+boho linen,,natural
+boho texture,,neutral
+boho tweed,,greige
+boho chambray,,ivory
+bohemian coastal,,cream
+bohemian heavy,,off white
+bohemian modern,,black
+bohemian woven,,black and white
+bohemian linen,,light blue
+bohemian texture,,light gray
+bohemian tweed,,silver
+bohemian chambray,,light grey
+modern coastal,,pink
+modern heavy,,light pink
+modern modern,,dark pink
+modern woven,,white
+modern linen,,teal
+modern texture,,dark teal
+modern tweed,,light teal
+modern chambray,,
+farmhouse coastal,,
+farmhouse heavy,,
+farmhouse modern,,
+farmhouse woven,,
+farmhouse linen,,
+farmhouse texture,,
+farmhouse tweed,,
+farmhouse chambray,,
+farm house coastal,,
+farm house heavy,,
+farm house modern,,
+farm house woven,,
+farm house linen,,
+farm house texture,,
+farm house tweed,,
+farm house chambray,,
+rustic coastal,,
+rustic heavy,,
+rustic modern,,
+rustic woven,,
+rustic linen,,
+rustic texture,,
+rustic tweed,,
+rustic chambray,,
+grommet farmhouse,,
+grommet farm house,,
+grommet semi sheer,,
+grommet rustic,,
+grommet thermal,,
+grommet insulated,,
+grommet insulate,,
+grommet sound,,
+grommet boho,,
+grommet bohemian,,
+ring top farmhouse,,
+ring top farm house,,
+ring top semi sheer,,
+ring top rustic,,
+ring top thermal,,
+ring top insulated,,
+ring top insulate,,
+ring top sound,,
+ring top boho,,
+ring top bohemian,,
+coastal farmhouse,,
+coastal farm house,,
+coastal semi sheer,,
+coastal rustic,,
+coastal thermal,,
+coastal insulated,,
+coastal insulate,,
+coastal sound,,
+coastal boho,,
+coastal bohemian,,
+boho farmhouse,,
+boho farm house,,
+boho semi sheer,,
+boho rustic,,
+boho thermal,,
+boho insulated,,
+boho insulate,,
+boho sound,,
+boho boho,,
+boho bohemian,,
+bohemian farmhouse,,
+bohemian farm house,,
+bohemian semi sheer,,
+bohemian rustic,,
+bohemian thermal,,
+bohemian insulated,,
+bohemian insulate,,
+bohemian sound,,
+bohemian patio,,
+bohemian extra wide,,
+bohemian wide,,
+bohemian double,,
+bohemian boho,,
+bohemian bohemian,,
+modern farmhouse,,
+modern farm house,,
+modern semi sheer,,
+modern rustic,,
+modern thermal,,
+modern insulated,,
+modern insulate,,
+modern sound,,
+modern patio,,
+modern extra wide,,
+modern wide,,
+modern double,,
+modern boho,,
+modern bohemian,,
+farmhouse farmhouse,,
+farmhouse farm house,,
+farmhouse semi sheer,,
+farmhouse rustic,,
+farmhouse thermal,,
+farmhouse insulated,,
+farmhouse insulate,,
+farmhouse sound,,
+farmhouse patio,,
+farmhouse extra wide,,
+farmhouse wide,,
+farmhouse double,,
+farmhouse boho,,
+farmhouse bohemian,,
+farm house farmhouse,,
+farm house farm house,,
+farm house semi sheer,,
+farm house rustic,,
+farm house thermal,,
+farm house insulated,,
+farm house insulate,,
+farm house sound,,
+farm house patio,,
+farm house extra wide,,
+farm house wide,,
+farm house double,,
+farm house boho,,
+farm house bohemian,,
+rustic farmhouse,,
+rustic farm house,,
+rustic semi sheer,,
+rustic rustic,,
+rustic thermal,,
+rustic insulated,,
+rustic insulate,,
+rustic sound,,
+rustic patio,,
+rustic extra wide,,
+rustic wide,,
+rustic double,,
+rustic boho,,
+rustic bohemian,,
