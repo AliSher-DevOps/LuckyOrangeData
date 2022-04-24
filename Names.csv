@@ -1,57 +1,50 @@
 Product,Size,Type
-grommet 107 inch,curtain,grayish
-grommet 108 inch,drape,grey
-grommet 109 inch,drapery,gray
-grommet 110 inch,panel,gold
-coastal 107 inch,window curtain,yellow
-coastal 108 inch,,mustard
-coastal 109 inch,,navy
-coastal 110 inch,,bluish
-boho 107 inch,,blue
-boho 108 inch,,indigo
-boho 109 inch,,denim
-boho 110 inch,,dark grey
-bohemian 107 inch,,charcoal
-bohemian 108 inch,,black grey
-bohemian 109 inch,,burlap
-bohemian 110 inch,,sand
-modern 107 inch,,taupe
-modern 108 inch,,tan
-modern 109 inch,,beige
-modern 110 inch,,light brown
-farmhouse 107 inch,,natural
-farmhouse 108 inch,,neutral
-farmhouse 109 inch,,greige
-farmhouse 110 inch,,ivory
-farm house 107 inch,,cream
-farm house 108 inch,,off white
-farm house 109 inch,,black
-farm house 110 inch,,black and white
-rustic 107 inch,,light blue
-rustic 108 inch,,light gray
-rustic 109 inch,,silver
-rustic 110 inch,,light grey
-woven 107 inch,,pink
-woven 108 inch,,light pink
-woven 109 inch,,dark pink
-woven 110 inch,,white
-linen 107 inch,,teal
-linen 108 inch,,dark teal
-linen 109 inch,,light teal
-linen 110 inch,,
-texture 107 inch,,
-texture 108 inch,,
-texture 109 inch,,
-texture 110 inch,,
-tweed 107 inch,,
-tweed 108 inch,,
-tweed 109 inch,,
-tweed 110 inch,,
-chambray 107 inch,,
-chambray 108 inch,,
-chambray 109 inch,,
-chambray 110 inch,,
-semi sheer 107 inch inch,,
-semi sheer 108 inch,,
-semi sheer 109 inch,,
-semi sheer 110 inch,,
+woven farmhouse,curtain,grayish
+woven farm house,drape,grey
+woven semi sheer,drapery,gray
+woven rustic,panel,gold
+linen farmhouse,window curtain,yellow
+linen farm house,,mustard
+linen semi sheer,,navy
+linen rustic,,bluish
+texture grommet,,blue
+texture coastal,,indigo
+texture heavy,,denim
+texture pattern,,dark grey
+texture modern,,charcoal
+texture woven,,black grey
+texture texture,,burlap
+texture tweed,,sand
+texture chambray,,taupe
+texture farmhouse,,tan
+texture farm house,,beige
+texture semi sheer,,light brown
+texture rustic,,natural
+tweed grommet,,neutral
+tweed coastal,,greige
+tweed heavy,,ivory
+tweed pattern,,cream
+tweed modern,,off white
+tweed woven,,black
+tweed texture,,black and white
+tweed tweed,,light blue
+tweed chambray,,light gray
+tweed farmhouse,,silver
+tweed farm house,,light grey
+tweed semi sheer,,pink
+tweed rustic,,light pink
+chambray grommet,,dark pink
+chambray coastal,,white
+chambray heavy,,teal
+chambray pattern,,dark teal
+chambray modern,,light teal
+chambray woven,,
+chambray texture,,
+chambray tweed,,
+chambray chambray,,
+chambray farmhouse,,
+chambray farm house,,
+chambray semi sheer,,
+chambray rustic,,
+chambray boho,,
+chambray bohemian,,
