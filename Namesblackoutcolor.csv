@@ -1,175 +1,40 @@
 Product,Size,blackout,Type
-grommet coastal,curtain,black out,grayish
-grommet heavy,drape,sun block,grey
-grommet modern,drapery,sun blocking,gray
-grommet woven,panel,,gold
-grommet linen,window curtain,,yellow
-grommet texture,,,mustard
-grommet tweed,,,navy
-grommet chambray,,,bluish
-coastal coastal,,,blue
-coastal heavy,,,indigo
-coastal modern,,,denim
-coastal woven,,,dark grey
-coastal linen,,,charcoal
-coastal texture,,,black grey
-coastal tweed,,,burlap
-coastal chambray,,,sand
-boho coastal,,,taupe
-boho heavy,,,tan
-boho modern,,,beige
-boho woven,,,light brown
-boho linen,,,natural
-boho texture,,,neutral
-boho tweed,,,greige
-boho chambray,,,ivory
-bohemian coastal,,,cream
-bohemian heavy,,,off white
-bohemian modern,,,black
-bohemian woven,,,black and white
-bohemian linen,,,light blue
-bohemian texture,,,light gray
-bohemian tweed,,,silver
-bohemian chambray,,,light grey
-modern coastal,,,pink
-modern heavy,,,light pink
-modern modern,,,dark pink
-modern woven,,,white
-modern linen,,,teal
-modern texture,,,dark teal
-modern tweed,,,light teal
-modern chambray,,,
-farmhouse coastal,,,
-farmhouse heavy,,,
-farmhouse modern,,,
-farmhouse woven,,,
-farmhouse linen,,,
-farmhouse texture,,,
-farmhouse tweed,,,
-farmhouse chambray,,,
-farm house coastal,,,
-farm house heavy,,,
-farm house modern,,,
-farm house woven,,,
-farm house linen,,,
-farm house texture,,,
-farm house tweed,,,
-farm house chambray,,,
-rustic coastal,,,
-rustic heavy,,,
-rustic modern,,,
-rustic woven,,,
-rustic linen,,,
-rustic texture,,,
-rustic tweed,,,
-rustic chambray,,,
-grommet farmhouse,,,
-grommet farm house,,,
-grommet semi sheer,,,
-grommet rustic,,,
-grommet thermal,,,
-grommet insulated,,,
-grommet insulate,,,
-grommet sound,,,
-grommet boho,,,
-grommet bohemian,,,
-ring top farmhouse,,,
-ring top farm house,,,
-ring top semi sheer,,,
-ring top rustic,,,
-ring top thermal,,,
-ring top insulated,,,
-ring top insulate,,,
-ring top sound,,,
-ring top boho,,,
-ring top bohemian,,,
-coastal farmhouse,,,
-coastal farm house,,,
-coastal semi sheer,,,
-coastal rustic,,,
-coastal thermal,,,
-coastal insulated,,,
-coastal insulate,,,
-coastal sound,,,
-coastal boho,,,
-coastal bohemian,,,
-boho farmhouse,,,
-boho farm house,,,
-boho semi sheer,,,
-boho rustic,,,
-boho thermal,,,
-boho insulated,,,
-boho insulate,,,
-boho sound,,,
-boho boho,,,
-boho bohemian,,,
-bohemian farmhouse,,,
-bohemian farm house,,,
-bohemian semi sheer,,,
-bohemian rustic,,,
-bohemian thermal,,,
-bohemian insulated,,,
-bohemian insulate,,,
-bohemian sound,,,
-bohemian patio,,,
-bohemian extra wide,,,
-bohemian wide,,,
-bohemian double,,,
-bohemian boho,,,
-bohemian bohemian,,,
-modern farmhouse,,,
-modern farm house,,,
-modern semi sheer,,,
-modern rustic,,,
-modern thermal,,,
-modern insulated,,,
-modern insulate,,,
-modern sound,,,
-modern patio,,,
-modern extra wide,,,
-modern wide,,,
-modern double,,,
-modern boho,,,
-modern bohemian,,,
-farmhouse farmhouse,,,
-farmhouse farm house,,,
-farmhouse semi sheer,,,
-farmhouse rustic,,,
-farmhouse thermal,,,
-farmhouse insulated,,,
-farmhouse insulate,,,
-farmhouse sound,,,
-farmhouse patio,,,
-farmhouse extra wide,,,
-farmhouse wide,,,
-farmhouse double,,,
-farmhouse boho,,,
-farmhouse bohemian,,,
-farm house farmhouse,,,
-farm house farm house,,,
-farm house semi sheer,,,
-farm house rustic,,,
-farm house thermal,,,
-farm house insulated,,,
-farm house insulate,,,
-farm house sound,,,
-farm house patio,,,
-farm house extra wide,,,
-farm house wide,,,
-farm house double,,,
-farm house boho,,,
-farm house bohemian,,,
-rustic farmhouse,,,
-rustic farm house,,,
-rustic semi sheer,,,
-rustic rustic,,,
-rustic thermal,,,
-rustic insulated,,,
-rustic insulate,,,
-rustic sound,,,
-rustic patio,,,
-rustic extra wide,,,
-rustic wide,,,
-rustic double,,,
-rustic boho,,,
-rustic bohemian,,,
+pink 84 inch,curtain,black out,grayish
+pink 96 inch,drape,sun block,grey
+pink 108 inch,drapery,sun blocking,gray
+pink 85 inch,panel,,gold
+pink 87 inch,window curtain,,yellow
+pink 109 inch,,,mustard
+pink 107 inch,,,navy
+pink 100 inch,,,bluish
+pink 97 inch,,,blue
+pink 95 inch,,,indigo
+pink grommet,,,denim
+pink coastal,,,dark grey
+pink heavy,,,charcoal
+pink pattern,,,black grey
+pink modern,,,burlap
+pink woven,,,sand
+pink linen,,,taupe
+pink texture,,,tan
+pink tweed,,,beige
+pink chambray,,,light brown
+pink ring top,,,natural
+pink print,,,neutral
+pink patterned,,,greige
+pink printed,,,ivory
+pink geometric,,,cream
+pink bold print,,,off white
+pink farmhouse,,,black
+pink farm house,,,black and white
+pink semi sheer,,,light blue
+pink rustic,,,light gray
+,,,silver
+,,,light grey
+,,,pink
+,,,light pink
+,,,dark pink
+,,,white
+,,,teal
+,,,dark teal
+,,,light teal
