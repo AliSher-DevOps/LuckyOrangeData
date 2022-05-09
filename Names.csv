@@ -1,40 +1,48 @@
 Product,Size,Type
-pink 84 inch,curtain,grayish
-pink 96 inch,drape,grey
-pink 108 inch,drapery,gray
-pink 85 inch,panel,gold
-pink 87 inch,window curtain,yellow
-pink 109 inch,,mustard
-pink 107 inch,,navy
-pink 100 inch,,bluish
-pink 97 inch,,blue
-pink 95 inch,,indigo
-pink grommet,,denim
-pink coastal,,dark grey
-pink heavy,,charcoal
-pink pattern,,black grey
-pink modern,,burlap
-pink woven,,sand
-pink linen,,taupe
-pink texture,,tan
-pink tweed,,beige
-pink chambray,,light brown
-pink ring top,,natural
-pink print,,neutral
-pink patterned,,greige
-pink printed,,ivory
-pink geometric,,cream
-pink bold print,,off white
-pink farmhouse,,black
-pink farm house,,black and white
-pink semi sheer,,light blue
-pink rustic,,light gray
-,,silver
-,,light grey
-,,pink
-,,light pink
-,,dark pink
-,,white
-,,teal
-,,dark teal
-,,light teal
+ring top 84,curtain,grayish
+ring top 85,drape,grey
+ring top 86,drapery,gray
+ring top 95,panel,gold
+ring top 96,window curtain,yellow
+ring top 97,,mustard
+ring top 107,,navy
+ring top 108,,bluish
+ring top 109,,blue
+ring top 110,,indigo
+ring top coastal,,dark grey
+ring top heavy,,charcoal
+ring top pattern,,black grey
+ring top modern,,burlap
+ring top woven,,sand
+ring top linen,,taupe
+ring top texture,,tan
+ring top tweed,,beige
+ring top chambray,,light brown
+grommet ring top,,natural
+coastal ring top,,neutral
+boho ring top,,greige
+bohemian ring top,,ivory
+modern ring top,,cream
+farmhouse ring top,,off white
+farm house ring top,,black
+rustic ring top,,black and white
+woven ring top,,light blue
+linen ring top,,light gray
+texture ring top,,silver
+tweed ring top,,light grey
+chambray ring top,,pink
+semi sheer ring top,,light pink
+semi sheer farmhouse,,dark pink
+semi sheer farm house,,white
+semi sheer semi sheer,,teal
+semi sheer rustic,,dark teal
+semi sheer thermal,,light teal
+semi sheer insulated,,denim
+semi sheer insulate,,
+semi sheer sound,,
+semi sheer patio,,
+semi sheer extra wide,,
+semi sheer wide,,
+semi sheer double,,
+semi sheer boho,,
+semi sheer bohemian,,

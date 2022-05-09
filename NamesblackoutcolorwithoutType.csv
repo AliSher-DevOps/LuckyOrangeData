@@ -1,43 +1,48 @@
 Product,blackout,Type
-grommet 95 inch,black out,grayish
-grommet 96 inch,sun block,grey
-grommet 97 inch,sun blocking,gray
-coastal 95 inch,,gold
-coastal 96 inch,,yellow
-coastal 97 inch,,mustard
-boho 95 inch,,navy
-boho 96 inch,,bluish
-boho 97 inch,,blue
-bohemian 95 inch,,indigo
-bohemian 96 inch,,denim
-bohemian 97 inch,,dark grey
-modern 95 inch,,charcoal
-modern 96 inch,,black grey
-modern 97 inch,,burlap
-farmhouse 95 inch,,sand
-farmhouse 96 inch,,taupe
-farmhouse 97 inch,,tan
-farm house 95 inch,,beige
-farm house 96 inch,,light brown
-farm house 97 inch,,natural
-rustic 95 inch,,neutral
-rustic 96 inch,,greige
-rustic 97 inch,,ivory
-woven 95 inch,,cream
-woven 96 inch,,off white
-woven 97 inch,,black
-linen 95 inch,,black and white
-linen 96 inch,,light blue
-linen 97 inch,,light gray
-texture 95 inch,,silver
-texture 96 inch,,light grey
-texture 97 inch,,pink
-tweed 95 inch,,light pink
-tweed 96 inch,,dark pink
-tweed 97 inch,,white
-chambray 95 inch,,teal
-chambray 96 inch,,dark teal
-chambray 97 inch,,light teal
-semi sheer 95 inch,,
-semi sheer 96 inch,,
-semi sheer 97 inch,,
+ring top 84,black out,grayish
+ring top 85,sun block,grey
+ring top 86,sun blocking,gray
+ring top 95,,gold
+ring top 96,,yellow
+ring top 97,,mustard
+ring top 107,,navy
+ring top 108,,bluish
+ring top 109,,blue
+ring top 110,,indigo
+ring top coastal,,denim
+ring top heavy,,dark grey
+ring top pattern,,charcoal
+ring top modern,,black grey
+ring top woven,,burlap
+ring top linen,,sand
+ring top texture,,taupe
+ring top tweed,,tan
+ring top chambray,,beige
+grommet ring top,,light brown
+coastal ring top,,natural
+boho ring top,,neutral
+bohemian ring top,,greige
+modern ring top,,ivory
+farmhouse ring top,,cream
+farm house ring top,,off white
+rustic ring top,,black
+woven ring top,,black and white
+linen ring top,,light blue
+texture ring top,,light gray
+tweed ring top,,silver
+chambray ring top,,light grey
+semi sheer ring top,,pink
+semi sheer farmhouse,,light pink
+semi sheer farm house,,dark pink
+semi sheer semi sheer,,white
+semi sheer rustic,,teal
+semi sheer thermal,,dark teal
+semi sheer insulated,,light teal
+semi sheer insulate,,
+semi sheer sound,,
+semi sheer patio,,
+semi sheer extra wide,,
+semi sheer wide,,
+semi sheer double,,
+semi sheer boho,,
+semi sheer bohemian,,
